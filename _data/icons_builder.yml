@@ -16,7 +16,7 @@ flickr:
 github:
   pre: "https://github.com/"
 gitlab:
-  pre: "https://gitlab.com/"
+
 google-scholar:
   pre: "https://scholar.google.com/citations?hl=en&user="
   icon: "fas fa-user-graduate"
@@ -80,3 +80,5 @@ wordpress:
   pos: ".wordpress.com/"
 youtube:
   pre: "https://www.youtube.com/channel/"
+tistory:
+  icon: fab fa-connectdevelop
