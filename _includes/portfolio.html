@@ -1,8 +1,14 @@
-<!-- Portfolio Grid Section -->
-<div class="portfolio-grid">
+<div class="posts">
     {% for item in site.portfolio %}
-    <div class="portfolio-cell">
-        <a class="portfolio-link" data-keyboard="true" href="{{ item.url | relative_url }}">
+    <div class="post-contents">
+        <span>
+            <a aria-label="{{item.title}}" class="post-link" href="{{ item.url | relative_url }}">
+                <h1>{{ item.title }}</h1>
+            </a>
+            {% assign date = item.date | default: "today" | date: "%B %-d, %Y" %}
+            <p class="meta">{{ date }}</p>
+        </span>
+        <!-- <a class="post-link" data-keyboard="true" href="{{ item.url | relative_url }}">
             <div class="caption" title="{{ item.title }}">
                 <div class="caption-content">
                     <i class="fas fa-search-plus fa-3x"></i>
@@ -10,7 +16,7 @@
             </div>
             <img alt="" class="" src="{{ item.img | relative_url }}">
             <p align="center">{{item.term}}</p>
-        </a>
+        </a> -->
     </div>
     {% endfor %}
 </div>

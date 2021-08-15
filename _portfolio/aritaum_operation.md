@@ -3,7 +3,7 @@ layout: post
 title: 아리따움몰 운영
 feature-img: 
 img: "assets/img/portfolio/aritaum_operation.png"
-date: January 2018
+date: 2018-01-01
 term: 2018. 01 ~ 2020. 04
 ---
 

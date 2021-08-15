@@ -3,7 +3,7 @@ layout: post
 title: 현대페이 블록패스
 feature-img: 
 img: "assets/img/portfolio/block_pass.png"
-date: May 2020
+date: 2020-05-01
 term: 2020. 05 ~ 2020. 06
 ---
 
@@ -44,4 +44,4 @@ term: 2020. 05 ~ 2020. 06
 * 결과
     - 개발 요건들 마감 기간 내에 개발 완료 및 QC 완료 후 반영
 
-[![PlayStoreLink]()](https://bit.ly/33rRvFm)
+[![PlayStoreLink]({{ "assets/img/portfolio/google-play-logo.png" | relative_url }})](https://bit.ly/33rRvFm)

@@ -3,7 +3,7 @@ layout: post
 title: 아름진 서비스
 feature-img: 
 img: "assets/img/portfolio/aumjin.png"
-date: January 2021
+date: 2021-01-01
 term: 2021. 01 ~ 2021. 05
 ---
 

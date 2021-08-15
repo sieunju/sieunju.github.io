@@ -3,7 +3,7 @@ layout: post
 title: AP Mall 리뉴얼
 feature-img: 
 img: "assets/img/portfolio/apmall_renewal.png"
-date: September 2017
+date: 2017-09-01
 term: 2017. 09 ~ 2018. 01
 ---
 
@@ -38,5 +38,4 @@ term: 2017. 09 ~ 2018. 01
     - 마감 날짜까지 개발 완료
     - 리뉴얼 배포 이후 앱 다운로드 수 소폭 상승
 
-
-[![PlayStoreLink]()](https://bit.ly/2JxgMa3)
+[![PlayStoreLink]({{ "assets/img/portfolio/google-play-logo.png" | relative_url }})](https://bit.ly/2JxgMa3)

@@ -3,7 +3,7 @@ layout: post
 title: 아리따움몰 스킨 콜라주 서비스
 feature-img: 
 img: "assets/img/portfolio/aritaum_skin_collage.png"
-date: September 2020
+date: 2020-09-01
 term: 2020. 09 ~ 2020. 11
 ---
 

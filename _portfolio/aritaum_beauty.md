@@ -3,8 +3,8 @@ layout: post
 title: 아리따움몰 뷰티 측정 서비스
 feature-img: 
 img: "assets/img/portfolio/aritaum_beauty_scan.png"
-date: July 2020
-term: 2020. 01 ~ 2020. 09
+date: 2020-07-01
+term: 2020. 07 ~ 2020. 09
 ---
 
 ## 아모레퍼시픽 아리따움몰 뷰티 측정 Dll 개발

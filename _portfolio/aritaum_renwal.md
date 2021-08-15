@@ -3,7 +3,7 @@ layout: post
 title: 아리따움몰 리뉴얼
 feature-img: 
 img: "assets/img/portfolio/aritaum_renewal.png"
-date: July 2018
+date: 2018-07-01
 term: 2018. 07 ~ 2018. 09
 ---
 
