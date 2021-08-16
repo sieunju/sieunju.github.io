@@ -48,4 +48,4 @@ term: 2021. 01 ~ 2021. 05
     - 마감 기간 내에 개발 완료 
     - 앱 런칭
 
-[![PlayStoreLink]()](https://bit.ly/3c6cQsr)
+[![PlayStoreLink]({{ "assets/img/portfolio/google-play-logo.png" | relative_url }})](https://bit.ly/3c6cQsr)

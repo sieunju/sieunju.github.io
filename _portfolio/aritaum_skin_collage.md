@@ -33,4 +33,4 @@ term: 2020. 09 ~ 2020. 11
 * 결과
     - 마감 기간 내에 개발 완료 후 Gitlab 코드 적용
 
-[![PlayStoreLink]()](https://bit.ly/37kvSbd)
+[![PlayStoreLink]({{ "assets/img/portfolio/google-play-logo.png" | relative_url }})](https://bit.ly/37kvSbd)

@@ -47,4 +47,4 @@ term: 2018. 01 ~ 2020. 04
     - 평점 대폭 상승 2.1 -> 4.7
     - 비정상 종료 발견하지 않은 사용자 91% -> 99.99%
 
-[![PlayStoreLink]()](https://bit.ly/37kvSbd)
+[![PlayStoreLink]({{ "assets/img/portfolio/google-play-logo.png" | relative_url }})](https://bit.ly/37kvSbd)

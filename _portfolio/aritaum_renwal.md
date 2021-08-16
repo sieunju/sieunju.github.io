@@ -45,4 +45,4 @@ term: 2018. 07 ~ 2018. 09
     - 마감 날짜까지 개발 완료
     - 리뉴얼 버전 배포 완료 후 앱 다운로드 및 평점 대폭 상승
 
-[![PlayStoreLink]()](https://bit.ly/37kvSbd)
+[![PlayStoreLink]({{ "assets/img/portfolio/google-play-logo.png" | relative_url }})](https://bit.ly/37kvSbd)

@@ -35,4 +35,4 @@ term: 2020. 07 ~ 2020. 09
 * 결과
     - 마감 기간 내에 개발 완료 및 릴리즈 버전 배포
 
-[![PlayStoreLink]()](https://bit.ly/37kvSbd)
+[![PlayStoreLink]({{ "assets/img/portfolio/google-play-logo.png" | relative_url }})](https://bit.ly/37kvSbd)
